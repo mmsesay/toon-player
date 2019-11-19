@@ -1,0 +1,4 @@
+#Wed Nov 06 22:54:53 PST 2019
+base.0=/Users/Muhammad/codes/react-native-projects/musicApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
