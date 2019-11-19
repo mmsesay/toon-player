@@ -1,5 +1,5 @@
 {
-  "name": "musicApp",
+  "name": "toonPlayer",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,17 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@material-ui/core": "^4.6.0",
-    "@material-ui/icons": "^4.5.1",
-    "es6-promise": "^4.2.8",
-    "isomorphic-fetch": "^2.2.1",
     "react": "16.9.0",
     "react-native": "0.61.4",
     "react-native-tailwind": "^1.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.7.0",
-    "@babel/runtime": "^7.7.1",
+    "@babel/core": "^7.7.2",
+    "@babel/runtime": "^7.7.2",
     "@react-native-community/eslint-config": "^0.0.5",
     "babel-jest": "^24.9.0",
     "eslint": "^6.6.0",

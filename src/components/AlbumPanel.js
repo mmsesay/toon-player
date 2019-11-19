@@ -2,7 +2,6 @@
 import React, { Component } from 'react'
 import { View, Text , Image, TouchableOpacity} from 'react-native-tailwind'
 import { StyleSheet } from 'react-native'
-import { style } from 'dom-helpers';
 require('isomorphic-fetch');
  
 class Albums extends Component {

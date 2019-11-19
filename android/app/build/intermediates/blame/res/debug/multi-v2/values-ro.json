@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Muhammad/codes/react-native-projects/musicApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/Muhammad/codes/react-native-projects/toon-player/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/Muhammad/.gradle/caches/transforms-2/files-2.1/cc48f51f5b25579cfe3ebaf6a4e66bc7/res/values-ro/values-ro.xml",

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.musicapp"
+    package="com.toonplayer"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -13,7 +13,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name="com.musicapp.MainApplication"
+        android:name="com.toonplayer.MainApplication"
         android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -23,7 +23,7 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.musicapp.MainActivity"
+            android:name="com.toonplayer.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/app_name"
             android:windowSoftInputMode="adjustResize" >
